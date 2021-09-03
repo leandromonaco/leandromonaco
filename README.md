@@ -8,6 +8,8 @@
   - 🎓 &nbsp; Preparing for Redis Developer and Azure DevOps certifications.
   - 🌱 &nbsp; Learning more about .NET 6, Microservices and Dapr.
   - 📫 &nbsp; You can reach me out on [LinkedIn](https://au.linkedin.com/in/leandromonaco)
+  - 🌎 &nbsp; I worked in Argentina, New Zealand and Australia
+  - 💬 &nbsp; I speak Spanish and English
   
 </div> 
   <div> 
