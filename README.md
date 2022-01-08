@@ -1,15 +1,21 @@
 <h1 align="center">Hey there! I'm Leandro Monaco 👋 </h1>
-<h3 align="center">.NET Developer | Software Engineering Team Lead </h3>
+<h3 align="center">Software Engineer</h3>
+
+<p align="center">
+  <a href="https://au.linkedin.com/in/leandromonaco"><img src="https://img.shields.io/badge/-LinkedIn-2D2B55?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://facebook.com/leandromonacoau"><img src="https://img.shields.io/badge/-Facebook-2D2B55?style=flat-square&logo=facebook&logoColor=white"/></a>
+  <a href="https://twitter.com/leandromonaco"><img src="https://img.shields.io/badge/-Twitter-2D2B55?style=flat-square&logo=twitter&logoColor=white"/></a>
+</p>
+
 <div>
 <div> 
   <h3> 👨🏻‍💻 About Me </h3>
 
-  - 🔭 &nbsp; I’m currently working on optimizing my GitHub monorepo.
-  - 🎓 &nbsp; Preparing for Redis Developer and Azure DevOps certifications.
+  - 🔭 &nbsp; Currently working on optimizing my [GitHub monorepo](https://github.com/leandromonaco/Workbench) and [curating information](https://github.com/leandromonaco/Documentation) for my professional development.
   - 🌱 &nbsp; Learning more about .NET 6, Microservices and Dapr.
-  - 📫 &nbsp; You can reach me out on [LinkedIn](https://au.linkedin.com/in/leandromonaco)
-  - 🌎 &nbsp; I worked in Argentina, New Zealand and Australia
-  - 💬 &nbsp; I speak Spanish and English
+  - 🎓 &nbsp; Preparing for Azure DevOps certification.
+  - 🌎 &nbsp; Professional Experience in Argentina, New Zealand and Australia.
+  - 💬 &nbsp; Spanish and English.
   
 </div> 
   <div> 
