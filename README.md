@@ -12,7 +12,7 @@
   <h3> 👨🏻‍💻 About Me </h3>
 
   - 🧪 &nbsp; Currently experimenting in my [Workbench](https://github.com/leandromonaco/Workbench) repository.
-  - 🌱 &nbsp; Learning [continuously](https://github.com/leandromonaco/Documentation/blob/main/TIL.md) and [curating information](https://github.com/leandromonaco/Documentation) for my professional development.
+  - 🌱 &nbsp; Learning [continuously](https://github.com/leandromonaco/Documentation/tree/main/Today%20I%20Learned) and [curating information](https://github.com/leandromonaco/Documentation) for my professional development.
   - 🎓 &nbsp; Preparing for Azure DevOps certification.
   - 🌎 &nbsp; Professional Experience in Argentina, New Zealand and Australia.
   - 💬 &nbsp; Spanish and English.
