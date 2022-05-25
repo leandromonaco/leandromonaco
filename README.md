@@ -30,27 +30,4 @@
 </div> 
   
    <div> 
-  <h3>📖 Reading </h3>
-     
-
-<a href="https://app.daily.dev/leandromonaco"><img src="https://api.daily.dev/devcards/ec5c91ffbffa4afe8dc1debf4e55dd41.png?r=1a9" width="400" alt="Leandro Monaco's Dev Card"/></a>
-     </div>
-</div>
-
-
-
-
-<!--
-**leandromonaco/leandromonaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
