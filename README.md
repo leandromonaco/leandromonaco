@@ -15,7 +15,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🧪 &nbsp; Experimenting in my [workbench](https://github.com/leandromonaco/Workbench) repository.
-- 🧠 &nbsp; Building my [second brain](https://leandromonaco.github.io/).
+- 🌱 &nbsp; Cultivating my [Digital Knowledge Garden](https://leandromonaco.github.io/).
 - 🎓 &nbsp; Preparing for Azure DevOps certification.
 - ⭐ &nbsp; Stargazing interesting [GitHub Projects](https://github.com/leandromonaco?tab=stars) and [gists](https://gist.github.com/leandromonaco/starred).
 - 🌎 &nbsp; Argentina, New Zealand and Australia.
