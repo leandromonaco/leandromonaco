@@ -12,7 +12,6 @@
 
 - 🧪 &nbsp; Experimenting in my [Workbench](https://github.com/leandromonaco/workbench) repository.
 - 🌱 &nbsp; Cultivating my [Digital Knowledge Garden](https://leandromonaco.github.io/digital-knowledge-garden/).
-- 🎓 &nbsp; Preparing for Azure DevOps certification.
 - ⭐ &nbsp; Stargazing interesting [GitHub Projects](https://github.com/leandromonaco?tab=stars) and [gists](https://gist.github.com/leandromonaco/starred).
 - 🌎 &nbsp; Argentina, New Zealand and Australia.
 - 💬 &nbsp; Spanish and English.
