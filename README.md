@@ -10,9 +10,9 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🧪 &nbsp; Developing tools to improve the Developer Experience.
+- 🧪 &nbsp; Developing tools to improve the Developer Experience
 - 🌱 &nbsp; Cultivating my Digital Knowledge Garden on [kb.devexlead.com](https://kb.devexlead.com)
-- ⭐ &nbsp; Stargazing [GitHub Projects](https://github.com/leandromonaco?tab=stars) and [gists](https://gist.github.com/leandromonaco/starred).
+- ⭐ &nbsp; Stargazing [GitHub Projects](https://github.com/leandromonaco?tab=stars) and [gists](https://gist.github.com/leandromonaco/starred)
 - 🌎 &nbsp; Living in Australia
 
 <h3> 🏅 Certifications </h3>
