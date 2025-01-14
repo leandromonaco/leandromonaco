@@ -10,11 +10,10 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🧪 &nbsp; Experimenting in my [Workbench](https://github.com/leandromonaco/workbench) repository.
-- 🌱 &nbsp; Cultivating my [Digital Knowledge Garden](https://leandromonaco.github.io/digital-knowledge-garden/).
-- ⭐ &nbsp; Stargazing interesting [GitHub Projects](https://github.com/leandromonaco?tab=stars) and [gists](https://gist.github.com/leandromonaco/starred).
-- 🌎 &nbsp; Argentina, New Zealand and Australia.
-- 💬 &nbsp; Spanish and English.
+- 🧪 &nbsp; Developing tools to improve the Developer Experience.
+- 🌱 &nbsp; Cultivating my Digital Knowledge Garden on [kb.devexlead.com](https://kb.devexlead.com)
+- ⭐ &nbsp; Stargazing [GitHub Projects](https://github.com/leandromonaco?tab=stars) and [gists](https://gist.github.com/leandromonaco/starred).
+- 🌎 &nbsp; Living in Australia
 
 <h3> 🏅 Certifications </h3>
 
