@@ -24,10 +24,7 @@
 
    </td>
    <td valign="top">
-
-<a href="https://app.daily.dev/leandromonaco"><img src="https://github.com/leandromonaco/leandromonaco/blob/main/devcard.svg" width="400" alt="Leandro Monaco's Dev Card"/></a>
-
-
+    <a href="https://app.daily.dev/leandromonaco"><img src="https://api.daily.dev/devcards/v2/jg4VLksK8bZB7s5mWOH0c.png?type=default&r=t02" width="356" alt="Leo's Dev Card"/></a>
    </td>
  </tr>
 </table>
