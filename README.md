@@ -12,9 +12,9 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🧪 Developing tools to improve the [Developer Experience](https://github.com/devexlead/devexlead-cli)
+- 🧪 Developing tools to improve the [Developer Experience](https://github.com/softwareworkercom)
 - 🌱 Cultivating my [Digital Knowledge Garden](https://leandromonaco.github.io/digital-knowledge-garden)
-- 📝 Writing about Software Engineering at [blog.devexlead.com](https://blog.devexlead.com)
+- 📝 Writing about Software Engineering at [blog.softwareworker.com](https://blog.softwareworker.com)
 - ⭐ Stargazing [GitHub Projects](https://github.com/leandromonaco?tab=stars) and [Gists](https://gist.github.com/leandromonaco/starred)
 
 <h3> 🏅 Certifications </h3>
